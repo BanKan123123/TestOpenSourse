@@ -4,5 +4,5 @@ git add README.md
 git commit -m "first commit"
 git branch -M main
 git remote add origin https://github.com/BanKan123123/TestOpenSourse.git
-git push -u origin mainNguyeh viet khan
-h
+git push -u origin main
+Nguyen van Ninh
